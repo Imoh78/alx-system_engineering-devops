@@ -1,1 +1,1 @@
-hello world script
+My first shell redirection readme
