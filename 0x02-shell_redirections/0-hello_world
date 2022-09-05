@@ -1,2 +1,2 @@
-readme.md
-d
+#!/bin/bash
+echo "Hello, World"
